@@ -1,0 +1,9 @@
+{
+  "last_hda": "/home/user/vm/disk.qcow2",
+  "last_iso": "/home/user/Downloads/windows.iso",
+  "ram": "4096",
+  "cpu": "4",
+  "gpu": "virtio",
+  "arch": "x86_64",
+  "kvm": true
+}
